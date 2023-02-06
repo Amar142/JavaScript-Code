@@ -13,7 +13,7 @@ btns.forEach(function (btn) {
       count = 0;
     }
     if (count > 0) {
-      value.style.color = "blue";
+      value.style.color = "yellow";
     }
     if (count < 0) {
       value.style.color = "red";
